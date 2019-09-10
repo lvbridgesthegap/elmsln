@@ -15,9 +15,7 @@ Contributing
 ==============
 You can learn more about contributing to ELMS:LN in our [CONTRIBUTING.md](CONTRIBUTING.md) guide. Vagrant is the fastest way to get up and running quickly. See the [Vagrant installation documentation](https://btopro.gitbooks.io/elmsln-documentation/content/developer-guide/vagrant-setup.html) on how to get up and running now! elmsln.org also has some sponsored demos of the technology but the real deal is always best!
 
-Issues
-==============
-If you notice an issue or have a question please file it in our [issue queue](https://github.com/elmsln/elmsln/issues).
+
 
 Documentation
 ==============
